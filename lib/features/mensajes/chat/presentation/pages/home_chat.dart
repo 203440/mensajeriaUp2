@@ -295,20 +295,6 @@ class _HomeChatScreenState extends State<HomeChatScreen> {
                                           ),
                                         ),
                                       ),
-                                    // GestureDetector(
-                                    //   onTap: () {
-                                    //     print('abrio');
-                                    //     Navigator.push(
-                                    //       context,
-                                    //       MaterialPageRoute(
-                                    //         builder: (context) =>
-                                    //             PdfViewerScreen(
-                                    //           pdfUrl: message.pdfUrl!,
-                                    //         ),
-                                    //       ),
-                                    //     );
-                                    //   },
-
                                     if (message.text != null)
                                       Text(message.text!),
                                     if (message.latitude != null &&
