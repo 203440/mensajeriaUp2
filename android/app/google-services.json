@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607876304457",
+    "project_id": "mensajeriaupv2",
+    "storage_bucket": "mensajeriaupv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607876304457:android:7ca42f756b88b951b93998",
+        "android_client_info": {
+          "package_name": "com.example.mensajeriaup2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607876304457-0bnievjvr22slstvsu7hnas1seddctgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6SwGkKA9SQvKqe-jX9o7R00n3uWuSGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607876304457-0bnievjvr22slstvsu7hnas1seddctgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
